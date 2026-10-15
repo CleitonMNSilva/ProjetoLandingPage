@@ -2,7 +2,7 @@
 
 **Autor:** Cleiton Marcelo Nunes da Silva  
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS) — 1ª fase  
-**Projeto online:** https://cleitonmnsilva.github.io/ProjetoWeb/
+**Projeto online:** [https://cleitonmnsilva.github.io/ProjetoWeb/](https://cleitonmnsilva.github.io/ProjetoLandingPage/)
 
 ## 1. Sobre o projeto
 
